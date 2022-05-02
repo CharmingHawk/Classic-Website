@@ -1,0 +1,17 @@
+
+
+.card-img-top{
+    max-width: 50%;
+    height:auto;
+}
+
+.card-text{
+    max-width:fit-content;
+    margin-inline-start: 5%;
+
+}
+
+.card-title{
+    margin-inline-start: 7%;
+
+}

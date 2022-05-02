@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Karl Dübon",
+        "imageLink": "https://www.iwi.hs-karlsruhe.de/intranet/?qs_servlet=downloadIxServlet&rq_RecId=38&qs_fileId=8&qs_lastModified=1599656773129&qs_fileControl=9603AD824F09FCDAF145CB8F879459CDDE562F50",
+        "büro": "E008",
+        "telefon": "0721/9252963",
+        "link": "\n",
+        "e-mail": "karl.duebon@h-ka.de",
+        "subjects": "Allg. BWL, Ibsys",
+        "position": "Professor",
+        "s-gang1": "WIB",
+        "s-gang2": "IIB"
+    },
+    {
+        "name": "Reimar Hofmann",
+        "imageLink": "https://www.iwi.hs-karlsruhe.de/intranet/?qs_servlet=downloadIxServlet&rq_RecId=31303135&qs_fileId=1015&qs_lastModified=1599656773213&qs_fileControl=9603AD824F09FCDAF145CB8F879459CDDE562F50",
+        "büro": "E107",
+        "telefon": "0721/9252954",
+        "link": "\n",
+        "e-mail": "reimar.hofmann@h-ka.de",
+        "subjects": "Mathe1, Statistik/BI",
+        "position": "Professor",
+        "s-gang1": "WIB",
+        "s-gang2": "IIB"
+    },
+    {
+        "name": "Udo Müller",
+        "imageLink": "https://www.iwi.hs-karlsruhe.de/intranet/?qs_servlet=downloadIxServlet&rq_RecId=35&qs_fileId=5&qs_lastModified=1599656773130&qs_fileControl=9603AD824F09FCDAF145CB8F879459CDDE562F50",
+        "büro": "E009",
+        "telefon": "0721/9252943",
+        "link": "\n",
+        "e-mail": "udo.mueller@h-ka.de",
+        "subjects": "Prog1",
+        "position": "Professor",
+        "s-gang1": "WIB",
+        "s-gang2": "IIB"
+    },
+    {
+        "name": "Franz Nees",
+        "imageLink": "https://www.iwi.hs-karlsruhe.de/intranet/?qs_servlet=downloadIxServlet&rq_RecId=37&qs_fileId=7&qs_lastModified=1599656773226&qs_fileControl=9603AD824F09FCDAF145CB8F879459CDDE562F50",
+        "büro": "E108",
+        "telefon": "0721/9252924",
+        "link": "\n",
+        "e-mail": "franz.nees@h-ka.de",
+        "subjects": "Planung v. Informationssysteme, Sozial und Selbstkompetenz, Finanzwirtschaft",
+        "position": "Professor",
+        "s-gang1": "WIB",
+        "s-gang2": "IIB"
+    },
+    {
+        "name": "Rainer Neumann",
+        "imageLink": "https://www.iwi.hs-karlsruhe.de/intranet/?qs_servlet=downloadIxServlet&rq_RecId=31323235&qs_fileId=1225&qs_lastModified=1599656773216&qs_fileControl=9603AD824F09FCDAF145CB8F879459CDDE562F50",
+        "büro": "E105",
+        "telefon": "0721/9252925",
+        "link": "\n",
+        "e-mail": "rainer.neumann@h-ka.de",
+        "subjects": "Einführung in die Wirtschaftsinformatik",
+        "position": "Professor",
+        "s-gang1": "WIB"
+    },
+    {
+        "name": "Stefanie Regier",
+        "imageLink": "https://www.iwi.hs-karlsruhe.de/intranet/?qs_servlet=downloadIxServlet&rq_RecId=31313631&qs_fileId=1161&qs_lastModified=1599656773128&qs_fileControl=9603AD824F09FCDAF145CB8F879459CDDE562F50",
+        "büro": "E110",
+        "telefon": "0721/9252945",
+        "link": "\n",
+        "e-mail": "stefanie.regier@h-ka.de",
+        "subjects": "Finanzwirtschaft, Marketing",
+        "position": "Professor",
+        "s-gang1": "WIB",
+        "s-gang2": "IIB"
+    },
+    {
+        "name": "Andrea Wirth",
+        "imageLink": "https://www.iwi.hs-karlsruhe.de/intranet/?qs_servlet=downloadIxServlet&rq_RecId=36&qs_fileId=6&qs_lastModified=1599656773235&qs_fileControl=9603AD824F09FCDAF145CB8F879459CDDE562F50",
+        "büro": "E110",
+        "telefon": "0721/9252932",
+        "link": "\n",
+        "e-mail": "andrea.wirth@h-ka.de",
+        "subjects": "Planung v. Informationssysteme, Finanzwirtschaft",
+        "position": "Professor",
+        "s-gang1": "WIB",
+        "s-gang2": "IIB"
+    },
+    {
+        "name": "Jan Stoess",
+        "imageLink": "https://www.iwi.hs-karlsruhe.de/intranet/?qs_servlet=downloadIxServlet&rq_RecId=33333238&qs_fileId=3328&qs_lastModified=1599656773188&qs_fileControl=9603AD824F09FCDAF145CB8F879459CDDE562F50",
+        "büro": "E009",
+        "telefon": "0721/9252928",
+        "link": "\n",
+        "e-mail": "jan.stoess@h-ka.de",
+        "subjects": "Datenbanken 1",
+        "position": "Professor",
+        "s-gang1": "WIB",
+        "s-gang2": "IIB"
+    },
+    {
+        "name": "Sven Martin",
+        "imageLink": "img/20100326_Martin_B246_H369_web.jpg",
+        "büro": "E111",
+        "telefon": "0721/9252919",
+        "link": "\n",
+        "e-mail": "sven.martin@h-ka.de",
+        "subjects": "Programmieren 2",
+        "position": "Professor",
+        "s-gang1": "WIB",
+        "s-gang2": "IIB"
+    },
+    {
+        "name": "Frank Haarer",
+        "imageLink": "",
+        "büro": "",
+        "telefon": "",
+        "link": "\n",
+        "e-mail": "",
+        "subjects": "Recht, IT - Recht",
+        "position": "Dozent",
+        "s-gang1": "WIB",
+        "s-gang2": "IIB"
+    },
+    {
+        "name": "Uwe Haneke",
+        "imageLink": "",
+        "büro": "E308",
+        "telefon": "0721/9251490",
+        "link": "\n",
+        "e-mail": "uwe.haneke@h-ka.de",
+        "subjects": "Automatisierung von Geschäftsprozessen",
+        "position": "Dozent",
+        "s-gang1": "",
+        "s-gang2": "IIB"
+    },
+    {
+        "name": "Jürgen Zimmermann",
+        "imageLink": "",
+        "büro": "E008",
+        "telefon": "0721/9252961",
+        "link": "\n",
+        "e-mail": "juergen.zimmermann@h-ka.de",
+        "subjects": "SWA, SWE",
+        "position": "Professor",
+        "s-gang1": "WIB",
+        "s-gang2": ""
+    }
+    
+]

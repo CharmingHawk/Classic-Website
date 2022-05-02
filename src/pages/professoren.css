@@ -1,0 +1,31 @@
+#professoren_overview {
+    flex-direction: column;
+  }
+
+#row{
+    flex-direction: row;
+    
+}
+
+
+.card{
+    width: 150px;
+    height: 300px;
+    border: 1px;
+   
+}
+
+h4 {
+    font-size: 20px;
+}
+
+.card a{
+    font-size:15px;
+}
+
+.row{
+    margin-left:60px;
+    margin-top:2%;
+    display:inline-block;
+}
+

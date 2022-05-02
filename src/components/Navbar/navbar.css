@@ -1,0 +1,41 @@
+
+.navbar-body{
+    font-family: 'PT Mono', monospace;
+    margin: 0.5rem;
+}
+
+.navbar-rechts{
+    align-content: right;
+    text-transform: uppercase;
+    text-align: right;
+    font-style: none;
+    list-style: none;
+}
+
+
+.navbar-rechts-list li{
+    margin-right: 15px;
+    display:inline-table;
+}
+
+.navbar-rechts-list a{
+    font-style: none;
+    color:black;
+    text-decoration: none;
+}
+
+.navbar-rechts-list a:hover{
+    color: white;
+    font-style: none;
+    text-decoration: none;
+}
+
+
+.filter-outer{
+    width:fit-content;
+    font-size: 10.5pt;
+    display: inline;
+    margin-left: 3%;
+}
+
+

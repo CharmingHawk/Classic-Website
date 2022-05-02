@@ -1,0 +1,19 @@
+
+#dSelect{
+    width:auto;
+}
+
+.form-select{
+    float: left;
+}
+
+.sucheC{
+    float: left;
+    margin-left: 5px;
+}
+
+#sammelContainer{
+
+    display: inline-block;
+    margin-left: 10px;
+}

@@ -1,0 +1,65 @@
+.Home{
+    margin-top: 4rem;
+}
+
+.links{
+    float: left;
+    width:20%;
+    margin-top:0;
+    margin-right: 4.0rem;
+    padding: 10% 0px;
+
+}
+
+.links li{
+    list-style: none;
+    margin-left:8%;
+    margin-bottom: 5%;
+}
+
+
+
+
+.seiten button{
+    margin-left:8%;
+    margin-bottom:5%;
+    background-color: white;
+    color: rgba(207, 0, 0, 0.753);
+    
+}
+
+.seiten button:hover{
+    background-color:rgba(207, 0, 0, 0.753);
+}
+
+.grundstudium{
+    margin-left: 30px;
+}
+
+h1{
+    text-align: left;
+}
+
+.text{
+    margin-left: 20%;
+}
+
+.text p{
+
+    float:none;
+    padding: 20px;
+    width: 70%;
+    height:max-content;
+}
+.text::after {
+    content: "";
+    padding: 200px;
+    display: table;
+    clear: both;
+  }
+
+  .bild img{
+      float: right;
+      width: 150px;
+      height: 150px;
+  }

@@ -1,0 +1,20 @@
+[
+    {
+    "autor": "Hans Meyer",
+    "titel": "tolles Buch",
+    "isbn": "1234",
+    "preis":  7.99
+    },
+    {
+    "autor": "Heiner Maier",
+    "titel": "super Buch",
+    "isbn": "5678",
+    "preis":  "8,99"
+    },
+    {
+    "autor": "Hauke Mayer",
+    "titel": "nettes Buch",
+    "isbn": "91011",
+    "preis":  "5,99"
+    }
+]
